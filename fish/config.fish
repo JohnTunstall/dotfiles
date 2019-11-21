@@ -1,0 +1,2 @@
+# jacc's fish config
+
